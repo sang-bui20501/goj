@@ -1,0 +1,2 @@
+# goj
+Golden Online Judge
